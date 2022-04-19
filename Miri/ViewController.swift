@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  Miri
 //
-//  Created by Marc D. Nichitiu on 4/19/22.
 //
 
 import UIKit
